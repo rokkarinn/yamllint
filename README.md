@@ -1,0 +1,1 @@
+## YamlLint config
